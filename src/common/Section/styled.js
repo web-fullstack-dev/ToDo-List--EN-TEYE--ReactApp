@@ -30,7 +30,7 @@ export const Title = styled.h2`
 
 export const Body = styled.div`
   padding: 20px;
-  background-color: ${({ theme }) => theme.color.lightSlateGrey};
+  background-color: ${({ theme }) => theme.color.orangeRed};
 
   @media (max-width: ${({ theme }) => theme.breakpoint.mobileMax360}px) {
     padding: 15px;

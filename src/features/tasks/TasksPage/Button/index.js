@@ -22,6 +22,6 @@ export default styled.button`
   }
 
   &:disabled {
-    color: ${({ theme }) => theme.color.lightSlateGrey}
+    color: ${({ theme }) => theme.color.orangeRed}
   }
 `;

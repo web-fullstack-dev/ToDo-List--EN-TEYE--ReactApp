@@ -16,7 +16,7 @@ export const Button = styled.button`
   cursor: context-menu;
   border-style: none;
   background-color: ${({ theme }) => theme.color.yellow};
-  color: ${({ theme }) => theme.color.lightSlateGrey};
+  color: ${({ theme }) => theme.color.orangeRed};
 
   &:hover {
     filter: brightness(110%);

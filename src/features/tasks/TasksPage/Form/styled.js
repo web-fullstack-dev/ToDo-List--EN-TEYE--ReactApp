@@ -12,7 +12,7 @@ export const StyledForm = styled.form`
 
 export const Button = styled.button`
   padding: 20px; 
-  color: ${({ theme }) => theme.color.lightSlateGrey}; 
+  color: ${({ theme }) => theme.color.orangeRed}; 
   background-color: ${({ theme }) => theme.color.yellow}; 
   border: none;
   transition: color 0.3s;

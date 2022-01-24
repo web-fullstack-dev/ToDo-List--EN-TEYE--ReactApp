@@ -34,7 +34,7 @@ export const Button = styled.button`
   `} 
 
   ${({ remove }) => remove && css`
-    color: ${({ theme }) => theme.color.lightSlateGrey};
+    color: ${({ theme }) => theme.color.orangeRed};
     background-color: ${({ theme }) => theme.color.yellow};
   `}
 
